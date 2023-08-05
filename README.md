@@ -1,3 +1,3 @@
 # quora_nlp
-### A NLP project to find weather given 2 questions are same are not semantically speaking.
+### A NLP project to find wether the given 2 questions  are semantically similar or not.
 ### Dataset Link - https://www.kaggle.com/c/quora-question-pairs
